@@ -1,10 +1,10 @@
 var github = "https://github.com/DamianBoer";
+var react_todolist = "https://github.com/DamianBoer/React-TodoList";
 
 whois = [
   "<br>",
   "Hey, I'm Damian!👋",
-  "I'm a Current Highschool student studying to end up in the field of Computer Science",
-
+  "I'm a Current Highschool student studying to end up in the field of Computer Science.",
   "<br>"
 ];
 
@@ -17,7 +17,8 @@ whoami = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
+  'Project 1       <a href="' + react_todolist + '" target="_blank">React TodoList' + "</a>",
+  'All my other projects can be found on my github.',
   "<br>"
 ];
 
