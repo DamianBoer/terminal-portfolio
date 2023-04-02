@@ -14,7 +14,6 @@ whoami = [
   "<br>"
 ];
 
-
 projects = [
   "<br>",
   'Project 1       <a href="' + react_todolist + '" target="_blank">React TodoList' + "</a>",
