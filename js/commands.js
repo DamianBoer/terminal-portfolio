@@ -1,5 +1,7 @@
 var github = "https://github.com/DamianBoer";
 var react_todolist = "https://github.com/DamianBoer/React-TodoList";
+var abyss = "abyss.html"
+
 
 whois = [
   "<br>",
@@ -17,6 +19,7 @@ whoami = [
 projects = [
   "<br>",
   'Project 1       <a href="' + react_todolist + '" target="_blank">React TodoList' + "</a>",
+  'Project 2       <a href="' + abyss + '" target="_blank">Pico-8 Game' + "</a>",
   'All my other projects can be found on my github.',
   "<br>"
 ];
@@ -33,14 +36,14 @@ help = [
 ];
 
 banner = [
-'									                ',
-' ██████╗  █████╗ ███╗   ███╗██╗ █████╗ ███╗   ██╗	',
-' ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗████╗  ██║	',
-' ██║  ██║███████║██╔████╔██║██║███████║██╔██╗ ██║	',
-' ██║  ██║██╔══██║██║╚██╔╝██║██║██╔══██║██║╚██╗██║	',
-' ██████╔╝██║  ██║██║ ╚═╝ ██║██║██║  ██║██║ ╚████║	',
-' ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝	',
-'                                               	',
+  '									                ',
+  ' ██████╗  █████╗ ███╗   ███╗██╗ █████╗ ███╗   ██╗	',
+  ' ██╔══██╗██╔══██╗████╗ ████║██║██╔══██╗████╗  ██║	',
+  ' ██║  ██║███████║██╔████╔██║██║███████║██╔██╗ ██║	',
+  ' ██║  ██║██╔══██║██║╚██╔╝██║██║██╔══██║██║╚██╗██║	',
+  ' ██████╔╝██║  ██║██║ ╚═╝ ██║██║██║  ██║██║ ╚████║	',
+  ' ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝	',
+  '                                               	',
   '<span class="color2">Welcome to my interactive web terminal.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
